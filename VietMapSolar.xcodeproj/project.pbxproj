@@ -8,16 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		1410E9C81EF12C1E001829A5 /* Solar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FC5B651D469B4E00C4D3EB /* Solar.swift */; };
-		14381E7A1EF96100008E9826 /* Solar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7FC5B5A1D469B2700C4D3EB /* Solar.framework */; };
+		14381E7A1EF96100008E9826 /* VietMapSolar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7FC5B5A1D469B2700C4D3EB /* VietMapSolar.framework */; };
 		14456B851EF96AC000D76A4D /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14456B831EF96ABA00D76A4D /* City.swift */; };
 		14456B881EF96ACD00D76A4D /* SolarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14456B861EF96ACA00D76A4D /* SolarTests.swift */; };
 		4CABE4EA2161610E009BAAB8 /* Solar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FC5B651D469B4E00C4D3EB /* Solar.swift */; };
 		4CABE50A21616FFB009BAAB8 /* Solar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7FC5B651D469B4E00C4D3EB /* Solar.swift */; };
 		DA3AAFF525DCBAB400FB1D88 /* CorrectResults.json in Resources */ = {isa = PBXBuildFile; fileRef = 14456B891EF96AD900D76A4D /* CorrectResults.json */; };
-		DA85D68225DCADA8008A2AD4 /* Solar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CABE4E2216160CF009BAAB8 /* Solar.framework */; };
+		DA85D68225DCADA8008A2AD4 /* VietMapSolar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CABE4E2216160CF009BAAB8 /* VietMapSolar.framework */; };
 		DA85D6B225DCAECC008A2AD4 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14456B831EF96ABA00D76A4D /* City.swift */; };
 		DA85D6B925DCAED0008A2AD4 /* CorrectResults.json in Resources */ = {isa = PBXBuildFile; fileRef = 14456B891EF96AD900D76A4D /* CorrectResults.json */; };
-		DA85D6D525DCB095008A2AD4 /* Solar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CABE500216169DE009BAAB8 /* Solar.framework */; };
+		DA85D6D525DCB095008A2AD4 /* VietMapSolar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CABE500216169DE009BAAB8 /* VietMapSolar.framework */; };
 		DA85D6FE25DCB0DA008A2AD4 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14456B831EF96ABA00D76A4D /* City.swift */; };
 		DA85D70625DCB0DD008A2AD4 /* CorrectResults.json in Resources */ = {isa = PBXBuildFile; fileRef = 14456B891EF96AD900D76A4D /* CorrectResults.json */; };
 		DA85D70E25DCB0ED008A2AD4 /* SolarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14456B861EF96ACA00D76A4D /* SolarTests.swift */; };
@@ -51,17 +51,17 @@
 
 /* Begin PBXFileReference section */
 		1410E9B71EF12AD4001829A5 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1410E9C01EF12B5A001829A5 /* Solar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Solar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1410E9C01EF12B5A001829A5 /* VietMapSolar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VietMapSolar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		14456B831EF96ABA00D76A4D /* City.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		14456B861EF96ACA00D76A4D /* SolarTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SolarTests.swift; sourceTree = "<group>"; };
 		14456B891EF96AD900D76A4D /* CorrectResults.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CorrectResults.json; sourceTree = "<group>"; };
 		14456B8A1EF96AD900D76A4D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4CABE4E2216160CF009BAAB8 /* Solar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Solar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4CABE500216169DE009BAAB8 /* Solar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Solar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		97837EAB1E4BB1DE000FEF64 /* SolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA85D67D25DCADA8008A2AD4 /* SolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA85D6D025DCB095008A2AD4 /* SolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F7FC5B5A1D469B2700C4D3EB /* Solar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Solar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CABE4E2216160CF009BAAB8 /* VietMapSolar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VietMapSolar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CABE500216169DE009BAAB8 /* VietMapSolar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VietMapSolar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		97837EAB1E4BB1DE000FEF64 /* VietMapSolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VietMapSolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA85D67D25DCADA8008A2AD4 /* VietMapSolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VietMapSolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA85D6D025DCB095008A2AD4 /* VietMapSolarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VietMapSolarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7FC5B5A1D469B2700C4D3EB /* VietMapSolar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VietMapSolar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7FC5B651D469B4E00C4D3EB /* Solar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -91,7 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14381E7A1EF96100008E9826 /* Solar.framework in Frameworks */,
+				14381E7A1EF96100008E9826 /* VietMapSolar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,7 +99,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA85D68225DCADA8008A2AD4 /* Solar.framework in Frameworks */,
+				DA85D68225DCADA8008A2AD4 /* VietMapSolar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA85D6D525DCB095008A2AD4 /* Solar.framework in Frameworks */,
+				DA85D6D525DCB095008A2AD4 /* VietMapSolar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,13 +160,13 @@
 		F7FC5B5B1D469B2700C4D3EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F7FC5B5A1D469B2700C4D3EB /* Solar.framework */,
-				97837EAB1E4BB1DE000FEF64 /* SolarTests.xctest */,
-				1410E9C01EF12B5A001829A5 /* Solar.framework */,
-				4CABE4E2216160CF009BAAB8 /* Solar.framework */,
-				4CABE500216169DE009BAAB8 /* Solar.framework */,
-				DA85D67D25DCADA8008A2AD4 /* SolarTests.xctest */,
-				DA85D6D025DCB095008A2AD4 /* SolarTests.xctest */,
+				F7FC5B5A1D469B2700C4D3EB /* VietMapSolar.framework */,
+				97837EAB1E4BB1DE000FEF64 /* VietMapSolarTests.xctest */,
+				1410E9C01EF12B5A001829A5 /* VietMapSolar.framework */,
+				4CABE4E2216160CF009BAAB8 /* VietMapSolar.framework */,
+				4CABE500216169DE009BAAB8 /* VietMapSolar.framework */,
+				DA85D67D25DCADA8008A2AD4 /* VietMapSolarTests.xctest */,
+				DA85D6D025DCB095008A2AD4 /* VietMapSolarTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -214,9 +214,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1410E9BF1EF12B5A001829A5 /* Solar watchOS */ = {
+		1410E9BF1EF12B5A001829A5 /* VietMapSolar watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1410E9C51EF12B5A001829A5 /* Build configuration list for PBXNativeTarget "Solar watchOS" */;
+			buildConfigurationList = 1410E9C51EF12B5A001829A5 /* Build configuration list for PBXNativeTarget "VietMapSolar watchOS" */;
 			buildPhases = (
 				1410E9BB1EF12B5A001829A5 /* Sources */,
 				1410E9BC1EF12B5A001829A5 /* Frameworks */,
@@ -227,14 +227,14 @@
 			);
 			dependencies = (
 			);
-			name = "Solar watchOS";
+			name = "VietMapSolar watchOS";
 			productName = Solar;
-			productReference = 1410E9C01EF12B5A001829A5 /* Solar.framework */;
+			productReference = 1410E9C01EF12B5A001829A5 /* VietMapSolar.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		4CABE4E1216160CF009BAAB8 /* Solar macOS */ = {
+		4CABE4E1216160CF009BAAB8 /* VietMapSolar macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4CABE4E7216160CF009BAAB8 /* Build configuration list for PBXNativeTarget "Solar macOS" */;
+			buildConfigurationList = 4CABE4E7216160CF009BAAB8 /* Build configuration list for PBXNativeTarget "VietMapSolar macOS" */;
 			buildPhases = (
 				4CABE4DD216160CF009BAAB8 /* Headers */,
 				4CABE4DE216160CF009BAAB8 /* Sources */,
@@ -245,14 +245,14 @@
 			);
 			dependencies = (
 			);
-			name = "Solar macOS";
+			name = "VietMapSolar macOS";
 			productName = Solar_macOS;
-			productReference = 4CABE4E2216160CF009BAAB8 /* Solar.framework */;
+			productReference = 4CABE4E2216160CF009BAAB8 /* VietMapSolar.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		4CABE4FF216169DE009BAAB8 /* Solar tvOS */ = {
+		4CABE4FF216169DE009BAAB8 /* VietMapSolar tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4CABE505216169DF009BAAB8 /* Build configuration list for PBXNativeTarget "Solar tvOS" */;
+			buildConfigurationList = 4CABE505216169DF009BAAB8 /* Build configuration list for PBXNativeTarget "VietMapSolar tvOS" */;
 			buildPhases = (
 				4CABE4FB216169DE009BAAB8 /* Headers */,
 				4CABE4FC216169DE009BAAB8 /* Sources */,
@@ -263,14 +263,14 @@
 			);
 			dependencies = (
 			);
-			name = "Solar tvOS";
+			name = "VietMapSolar tvOS";
 			productName = Solar_tvOS;
-			productReference = 4CABE500216169DE009BAAB8 /* Solar.framework */;
+			productReference = 4CABE500216169DE009BAAB8 /* VietMapSolar.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		97837EAA1E4BB1DE000FEF64 /* SolarTests iOS */ = {
+		97837EAA1E4BB1DE000FEF64 /* VietMapSolarTests iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 97837EB51E4BB1DE000FEF64 /* Build configuration list for PBXNativeTarget "SolarTests iOS" */;
+			buildConfigurationList = 97837EB51E4BB1DE000FEF64 /* Build configuration list for PBXNativeTarget "VietMapSolarTests iOS" */;
 			buildPhases = (
 				97837EA71E4BB1DE000FEF64 /* Sources */,
 				97837EA81E4BB1DE000FEF64 /* Frameworks */,
@@ -281,14 +281,14 @@
 			dependencies = (
 				97837EB21E4BB1DE000FEF64 /* PBXTargetDependency */,
 			);
-			name = "SolarTests iOS";
+			name = "VietMapSolarTests iOS";
 			productName = SolarTests;
-			productReference = 97837EAB1E4BB1DE000FEF64 /* SolarTests.xctest */;
+			productReference = 97837EAB1E4BB1DE000FEF64 /* VietMapSolarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DA85D67C25DCADA8008A2AD4 /* SolarTests macOS */ = {
+		DA85D67C25DCADA8008A2AD4 /* VietMapSolarTests macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA85D68525DCADA8008A2AD4 /* Build configuration list for PBXNativeTarget "SolarTests macOS" */;
+			buildConfigurationList = DA85D68525DCADA8008A2AD4 /* Build configuration list for PBXNativeTarget "VietMapSolarTests macOS" */;
 			buildPhases = (
 				DA85D67925DCADA8008A2AD4 /* Sources */,
 				DA85D67A25DCADA8008A2AD4 /* Frameworks */,
@@ -299,14 +299,14 @@
 			dependencies = (
 				DA85D68425DCADA8008A2AD4 /* PBXTargetDependency */,
 			);
-			name = "SolarTests macOS";
+			name = "VietMapSolarTests macOS";
 			productName = SolarTests;
-			productReference = DA85D67D25DCADA8008A2AD4 /* SolarTests.xctest */;
+			productReference = DA85D67D25DCADA8008A2AD4 /* VietMapSolarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DA85D6CF25DCB095008A2AD4 /* SolarTests tvOS */ = {
+		DA85D6CF25DCB095008A2AD4 /* VietMapSolarTests tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA85D6DA25DCB095008A2AD4 /* Build configuration list for PBXNativeTarget "SolarTests tvOS" */;
+			buildConfigurationList = DA85D6DA25DCB095008A2AD4 /* Build configuration list for PBXNativeTarget "VietMapSolarTests tvOS" */;
 			buildPhases = (
 				DA85D6CC25DCB095008A2AD4 /* Sources */,
 				DA85D6CD25DCB095008A2AD4 /* Frameworks */,
@@ -317,14 +317,14 @@
 			dependencies = (
 				DA85D6D725DCB095008A2AD4 /* PBXTargetDependency */,
 			);
-			name = "SolarTests tvOS";
+			name = "VietMapSolarTests tvOS";
 			productName = SolarTests;
-			productReference = DA85D6D025DCB095008A2AD4 /* SolarTests.xctest */;
+			productReference = DA85D6D025DCB095008A2AD4 /* VietMapSolarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F7FC5B591D469B2700C4D3EB /* Solar iOS */ = {
+		F7FC5B591D469B2700C4D3EB /* VietMapVietMapSolar iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F7FC5B621D469B2700C4D3EB /* Build configuration list for PBXNativeTarget "Solar iOS" */;
+			buildConfigurationList = F7FC5B621D469B2700C4D3EB /* Build configuration list for PBXNativeTarget "VietMapVietMapSolar iOS" */;
 			buildPhases = (
 				F7FC5B551D469B2700C4D3EB /* Sources */,
 				F7FC5B561D469B2700C4D3EB /* Frameworks */,
@@ -335,9 +335,9 @@
 			);
 			dependencies = (
 			);
-			name = "Solar iOS";
+			name = "VietMapVietMapSolar iOS";
 			productName = Solar;
-			productReference = F7FC5B5A1D469B2700C4D3EB /* Solar.framework */;
+			productReference = F7FC5B5A1D469B2700C4D3EB /* VietMapSolar.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -381,7 +381,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F7FC5B541D469B2700C4D3EB /* Build configuration list for PBXProject "Solar" */;
+			buildConfigurationList = F7FC5B541D469B2700C4D3EB /* Build configuration list for PBXProject "VietMapSolar" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -393,13 +393,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F7FC5B591D469B2700C4D3EB /* Solar iOS */,
-				97837EAA1E4BB1DE000FEF64 /* SolarTests iOS */,
-				4CABE4E1216160CF009BAAB8 /* Solar macOS */,
-				DA85D67C25DCADA8008A2AD4 /* SolarTests macOS */,
-				4CABE4FF216169DE009BAAB8 /* Solar tvOS */,
-				DA85D6CF25DCB095008A2AD4 /* SolarTests tvOS */,
-				1410E9BF1EF12B5A001829A5 /* Solar watchOS */,
+				F7FC5B591D469B2700C4D3EB /* VietMapVietMapSolar iOS */,
+				97837EAA1E4BB1DE000FEF64 /* VietMapSolarTests iOS */,
+				4CABE4E1216160CF009BAAB8 /* VietMapSolar macOS */,
+				DA85D67C25DCADA8008A2AD4 /* VietMapSolarTests macOS */,
+				4CABE4FF216169DE009BAAB8 /* VietMapSolar tvOS */,
+				DA85D6CF25DCB095008A2AD4 /* VietMapSolarTests tvOS */,
+				1410E9BF1EF12B5A001829A5 /* VietMapSolar watchOS */,
 			);
 		};
 /* End PBXProject section */
@@ -524,17 +524,17 @@
 /* Begin PBXTargetDependency section */
 		97837EB21E4BB1DE000FEF64 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F7FC5B591D469B2700C4D3EB /* Solar iOS */;
+			target = F7FC5B591D469B2700C4D3EB /* VietMapVietMapSolar iOS */;
 			targetProxy = 97837EB11E4BB1DE000FEF64 /* PBXContainerItemProxy */;
 		};
 		DA85D68425DCADA8008A2AD4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4CABE4E1216160CF009BAAB8 /* Solar macOS */;
+			target = 4CABE4E1216160CF009BAAB8 /* VietMapSolar macOS */;
 			targetProxy = DA85D68325DCADA8008A2AD4 /* PBXContainerItemProxy */;
 		};
 		DA85D6D725DCB095008A2AD4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4CABE4FF216169DE009BAAB8 /* Solar tvOS */;
+			target = 4CABE4FF216169DE009BAAB8 /* VietMapSolar tvOS */;
 			targetProxy = DA85D6D625DCB095008A2AD4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -557,7 +557,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 2.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -583,7 +583,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 2.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -617,7 +617,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -650,7 +650,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -678,7 +678,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -706,7 +706,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_NAME = VietMapSolar;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -724,7 +724,7 @@
 				INFOPLIST_FILE = SolarTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -743,7 +743,7 @@
 				INFOPLIST_FILE = SolarTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -766,7 +766,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 			};
@@ -787,7 +787,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -807,7 +807,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				SDKROOT = appletvos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_VERSION = 5.0;
@@ -829,7 +829,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_FAST_MATH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.SolarTests;
-				PRODUCT_NAME = SolarTests;
+				PRODUCT_NAME = VietMapSolarTests;
 				SDKROOT = appletvos;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -974,8 +974,8 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 2.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSolar;
+				PRODUCT_NAME = VietMapSolar;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -997,8 +997,8 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MARKETING_VERSION = 2.2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = me.chrishowell.Solar;
-				PRODUCT_NAME = Solar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietmap.VietMapSolar;
+				PRODUCT_NAME = VietMapSolar;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -1008,7 +1008,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1410E9C51EF12B5A001829A5 /* Build configuration list for PBXNativeTarget "Solar watchOS" */ = {
+		1410E9C51EF12B5A001829A5 /* Build configuration list for PBXNativeTarget "VietMapSolar watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1410E9C61EF12B5A001829A5 /* Debug */,
@@ -1017,7 +1017,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4CABE4E7216160CF009BAAB8 /* Build configuration list for PBXNativeTarget "Solar macOS" */ = {
+		4CABE4E7216160CF009BAAB8 /* Build configuration list for PBXNativeTarget "VietMapSolar macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4CABE4E8216160CF009BAAB8 /* Debug */,
@@ -1026,7 +1026,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4CABE505216169DF009BAAB8 /* Build configuration list for PBXNativeTarget "Solar tvOS" */ = {
+		4CABE505216169DF009BAAB8 /* Build configuration list for PBXNativeTarget "VietMapSolar tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4CABE506216169DF009BAAB8 /* Debug */,
@@ -1035,7 +1035,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		97837EB51E4BB1DE000FEF64 /* Build configuration list for PBXNativeTarget "SolarTests iOS" */ = {
+		97837EB51E4BB1DE000FEF64 /* Build configuration list for PBXNativeTarget "VietMapSolarTests iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				97837EB31E4BB1DE000FEF64 /* Debug */,
@@ -1044,7 +1044,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA85D68525DCADA8008A2AD4 /* Build configuration list for PBXNativeTarget "SolarTests macOS" */ = {
+		DA85D68525DCADA8008A2AD4 /* Build configuration list for PBXNativeTarget "VietMapSolarTests macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA85D68625DCADA8008A2AD4 /* Debug */,
@@ -1053,7 +1053,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA85D6DA25DCB095008A2AD4 /* Build configuration list for PBXNativeTarget "SolarTests tvOS" */ = {
+		DA85D6DA25DCB095008A2AD4 /* Build configuration list for PBXNativeTarget "VietMapSolarTests tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA85D6D825DCB095008A2AD4 /* Debug */,
@@ -1062,7 +1062,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F7FC5B541D469B2700C4D3EB /* Build configuration list for PBXProject "Solar" */ = {
+		F7FC5B541D469B2700C4D3EB /* Build configuration list for PBXProject "VietMapSolar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7FC5B601D469B2700C4D3EB /* Debug */,
@@ -1071,7 +1071,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F7FC5B621D469B2700C4D3EB /* Build configuration list for PBXNativeTarget "Solar iOS" */ = {
+		F7FC5B621D469B2700C4D3EB /* Build configuration list for PBXNativeTarget "VietMapVietMapSolar iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7FC5B631D469B2700C4D3EB /* Debug */,

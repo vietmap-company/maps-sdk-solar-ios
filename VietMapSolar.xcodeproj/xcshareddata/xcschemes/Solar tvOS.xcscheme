@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4CABE4E1216160CF009BAAB8"
+               BlueprintIdentifier = "4CABE4FF216169DE009BAAB8"
                BuildableName = "Solar.framework"
-               BlueprintName = "Solar macOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA85D67C25DCADA8008A2AD4"
-               BuildableName = "SolarTests.xctest"
-               BlueprintName = "SolarTests macOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapSolar tvOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -41,24 +27,15 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CABE4E1216160CF009BAAB8"
-            BuildableName = "Solar.framework"
-            BlueprintName = "Solar macOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DA85D67C25DCADA8008A2AD4"
+               BlueprintIdentifier = "DA85D6CF25DCB095008A2AD4"
                BuildableName = "SolarTests.xctest"
-               BlueprintName = "SolarTests macOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapSolarTests tvOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -76,10 +53,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CABE4E1216160CF009BAAB8"
+            BlueprintIdentifier = "4CABE4FF216169DE009BAAB8"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar macOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapSolar tvOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -92,10 +69,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4CABE4E1216160CF009BAAB8"
+            BlueprintIdentifier = "4CABE4FF216169DE009BAAB8"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar macOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapSolar tvOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

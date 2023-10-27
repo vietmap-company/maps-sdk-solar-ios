@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1410E9BF1EF12B5A001829A5"
                BuildableName = "Solar.framework"
-               BlueprintName = "Solar watchOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapSolar watchOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,8 +45,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1410E9BF1EF12B5A001829A5"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar watchOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapSolar watchOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -61,8 +61,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1410E9BF1EF12B5A001829A5"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar watchOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapSolar watchOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

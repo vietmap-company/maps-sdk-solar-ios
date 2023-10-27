@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7FC5B591D469B2700C4D3EB"
                BuildableName = "Solar.framework"
-               BlueprintName = "Solar iOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapVietMapSolar iOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "97837EAA1E4BB1DE000FEF64"
                BuildableName = "SolarTests.xctest"
-               BlueprintName = "SolarTests iOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapSolarTests iOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,8 +47,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7FC5B591D469B2700C4D3EB"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar iOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapVietMapSolar iOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -58,8 +58,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "97837EAA1E4BB1DE000FEF64"
                BuildableName = "SolarTests.xctest"
-               BlueprintName = "SolarTests iOS"
-               ReferencedContainer = "container:Solar.xcodeproj">
+               BlueprintName = "VietMapSolarTests iOS"
+               ReferencedContainer = "container:VietMapSolar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -79,8 +79,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7FC5B591D469B2700C4D3EB"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar iOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapVietMapSolar iOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -95,8 +95,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F7FC5B591D469B2700C4D3EB"
             BuildableName = "Solar.framework"
-            BlueprintName = "Solar iOS"
-            ReferencedContainer = "container:Solar.xcodeproj">
+            BlueprintName = "VietMapVietMapSolar iOS"
+            ReferencedContainer = "container:VietMapSolar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
